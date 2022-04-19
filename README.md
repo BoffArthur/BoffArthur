@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoffArthur
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Machine Learning and VBA for automation of activities.
+- 🌱 I’m currently learning Python, XML and VBA for automation of activities.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arthur.boff@hotmail.com
 
